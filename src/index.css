@@ -1,5 +1,5 @@
 .navbar-style{
-  background-color: rgb(212, 142, 92);
+  background-color: rgb(75, 99, 111);
 }
 .logo-img-style{
   height: 50px;
@@ -16,4 +16,11 @@
 }
 *{
   font-family: 'Times New Roman', Times, serif; 
+}
+main{
+  min-height: 84vh;
+}
+footer{
+  background-color: rgb(75, 99, 111);
+  padding: 20px;
 }
